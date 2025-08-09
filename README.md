@@ -1,0 +1,2 @@
+# Sistema-de-recomendacion-vocacional-utilizando-PCA-y-Clusters
+Sistema de recomendación vocacional con PCA y K-Means. Análisis de 10K encuestas para identificar 5 perfiles estudiantiles. Combina PCA (reducción a 10D) y clustering para recomendaciones personalizadas. Ideal para orientadores educativos.  Objetivo: Guiar decisiones académicas con data science  #AnalisisVocacional #DataScience #MachineLearning
