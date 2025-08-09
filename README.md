@@ -68,7 +68,7 @@ joblib>=1.3.2
 - ARTES PLASTICAS: 63.33  
 ```
 
-**Aplicaciones prácticas**
+## **Aplicaciones prácticas**
 
 - Identificación de perfiles estudiantiles
 - Herramienta para orientadores vocacionales
