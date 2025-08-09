@@ -76,7 +76,7 @@ joblib>=1.3.2
 
 ## 📊 Visualizaciones Clave
 
-### 1. Cargas Factoriales Absolutas en los Primeros 10 Componentes Principales, El porcentaje indica varianza explicada por cada componente
+### 1. Cargas Factoriales Absolutas en los Primeros 10 Componentes Principales
 ![Varianza Explicada PCA](./images/cargas_factoriales_10_pca.png)
 *Figura 1: Porcentaje de varianza explicada por cada componente principal*
 
