@@ -80,12 +80,12 @@ joblib>=1.3.2
 ![Varianza Explicada PCA](./images/cargas_factoriales_10_pca.png)
 *Figura 1: Porcentaje de varianza explicada por cada componente principal*
 
-### 2. Distribución de Clusters
-![Distribución de Clusters](./images/cluster_distribution.png)
-*Figura 2: Proporción de estudiantes en cada cluster vocacional*
+### 2. Perfil promedio de Intereses/Aptitudes por Cluster
+![Distribución de Clusters](./images/cluster_heatmap.png)
+*Figura 2: Clusters de Interese y Aptitudes*
 
-### 3. Mapa de Calor de Variables
-![Heatmap de Variables](./images/variables_heatmap.png)
-*Figura 3: Correlación entre variables y componentes principales*
+### 3. Visualizacion de Clusters
+![Heatmap de Variables](./images/radar_clusters.png)
+*Figura 3: Clusters en grafica de radar*
 
 
